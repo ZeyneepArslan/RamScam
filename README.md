@@ -90,5 +90,6 @@ Kayıt olan kullanıcılara "Hoş Geldin" e-postası göndermek ve arayüzde ras
 Bu proje Sinop Üniversitesi Bilgisayar Mühendisliği öğrencileri tarafından geliştirilmiştir:
 
  ilk sürüm:Ömer,Süleyman,Erdem tarafından geliştirilmiş.
+ 
  ikinci sürüm:Zeynep Sude Arslan,Şevval Uyar tarafından geliştirilmiştir.
 
